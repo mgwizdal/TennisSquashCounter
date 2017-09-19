@@ -3,4 +3,12 @@
     <string name="button_point">Point</string>
     <string name="button_reset">Reset</string>
     <string name="button_reset_all">Reset ALL</string>
+    <string name="exit_msg">Do you want to exit?</string>
+    <string name="yes_msg">Yes!</string>
+    <string name="stay_msg">Keep scoring</string>
+    <string name="default_player_a">Player A</string>
+    <string name="default_player_b">Player B</string>
+    <string name="playerA_name">playerA_name</string>
+    <string name="playerB_name">playerB_name</string>
+    <string name="intent_grand_slam">grand_slam</string>
 </resources>

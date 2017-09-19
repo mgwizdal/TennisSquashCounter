@@ -80,7 +80,6 @@
                     android:gravity="center"
                     android:textSize="16sp"
                     android:id="@+id/addApoint_button"
-                    android:onClick="addAPoint"
                     android:layout_marginBottom="8dp"
 
                     />
@@ -99,7 +98,7 @@
                         android:textSize="16sp"
                         android:gravity="center"
                         android:id="@+id/resetA_button"
-                        android:onClick="resetA"
+
 
                         />
                 </RelativeLayout>
@@ -192,7 +191,6 @@
                     android:gravity="center"
                     android:textSize="16sp"
                     android:id="@+id/addBpoint_button"
-                    android:onClick="addBPoint"
                     android:layout_marginBottom="8dp"
                     />
 
@@ -211,7 +209,7 @@
                         android:textSize="16dp"
                         android:gravity="center"
                         android:id="@+id/resetB_button"
-                        android:onClick="resetB"
+
                         />
                 </RelativeLayout>
             </LinearLayout>
@@ -230,8 +228,7 @@
                 android:layout_centerHorizontal="true"
                 android:textSize="16sp"
                 android:gravity="center"
-                android:id="@+id/resetBoth_button"
-                android:onClick="resetBoth"/>
+                android:id="@+id/resetBoth_button" />
         </RelativeLayout>
     </LinearLayout>
 </RelativeLayout>
