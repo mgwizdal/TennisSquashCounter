@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tennis/Squash Counter</string>
+    <string name="button_point">Point</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_reset_all">Reset ALL</string>
+</resources>
